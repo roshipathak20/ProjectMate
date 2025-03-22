@@ -47,7 +47,7 @@
   - **Overdue:** Tasks past the due date  
   - **This Week:** Tasks due within the next 7 days  
 
-- **System Diagram:** Diagram showing frontend-backend-database interaction  
+-  
 
 ---
 
