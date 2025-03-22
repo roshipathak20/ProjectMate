@@ -8,7 +8,7 @@
 
 ## 2. Use Cases and User Flows  
 
-### Use Cases (For Grade 5):  
+### Use Cases :  
 1. **User can add a new task** with a title, description, and due date.  
 2. **User can categorize tasks** as "Upcoming," "Overdue," or "This Week."  
 3. **User can mark tasks as completed** and remove them when done.  
@@ -22,7 +22,7 @@
 ---
 
 ## 3. UI Prototypes  
-https://github.com/roshipathak20/ProjectMate/blob/main/images/Screenshot.png
+
 
 -  ![Task Management Screenshot](images/Task%20Management.png)
 
