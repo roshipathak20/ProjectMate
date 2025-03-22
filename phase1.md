@@ -22,6 +22,7 @@
 ---
 
 ## 3. UI Prototypes  
+https://github.com/roshipathak20/ProjectMate/blob/main/images/Screenshot.png
 
 -  ![Task Management Screenshot](images/Task%20Management.png)
 
