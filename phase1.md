@@ -22,7 +22,7 @@
 ---
 
 ## 3. UI Prototypes  
-
+-  ![Home Management Screenshot](images/Home_Management.png) 
 
 -  ![Task Management Screenshot](images/Task%20Management.png)
 
