@@ -2,8 +2,8 @@
 
 ## 1. User Personas  
 
-- **Emma (Software Developer)**: Works on multiple projects. Needs a task manager that tracks deadlines and overdue tasks.  
-- **John (Project Manager)**: Manages a team and assigns tasks. Needs an overview of upcoming deadlines and task status.  
+- **Sushil (Software Developer)**: Works on multiple projects. Needs a task manager that tracks deadlines and overdue tasks.  
+- **Roshani (Project Manager)**: Manages a team and assigns tasks. Needs an overview of upcoming deadlines and task status.  
 - **Sarah (University Student)**: Juggles assignments and exams. Needs reminders for deadlines and weekly planning.  
 
 ## 2. Use Cases and User Flows  
